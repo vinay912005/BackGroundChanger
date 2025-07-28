@@ -12,9 +12,6 @@
     <li>Responsive and clean layout</li>
   </ul>
 
-  <h2>📸 Preview</h2>
-  <p><em>Add a screenshot image here if needed:</em></p>
-  <code>&lt;img src="screenshot.png" alt="App Screenshot" /&gt;</code>
 
   <h2>🛠️ Technologies Used</h2>
   <ul>
